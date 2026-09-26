@@ -14,26 +14,6 @@ I enjoy building practical applications, exploring new technologies, and turning
 
 ## 🚀 Featured Projects
 
-### 🔹 DSA Visualizer
-Interactive web application for visualizing sorting algorithms step-by-step, with animations and complexity information.
-
-**Tech:** React, JavaScript, HTML, CSS
-
-🔗 [Live Demo](https://dsa-visualizer-weld.vercel.app/) • [Source Code](https://github.com/kamleshpurohit14/DSA-Visualizer)
-
----
-
-### 🔹 CareerForge
-A full-stack career-focused application built with **Spring Boot, React, MySQL and JWT authentication**, designed to manage student profiles, skills, projects and certifications.
-
-**Tech:** Java, Spring Boot, React, MySQL, JWT, REST APIs
-
-🔗 [GitHub Profile](https://github.com/kamleshpurohit14)
-
----
-
-## 🚀 Featured Projects
-
 <table>
 <tr>
 
@@ -61,6 +41,8 @@ Full-stack career-focused application for managing student profiles, skills, pro
 
 🔗 [GitHub Profile](https://github.com/kamleshpurohit14)
 
+🔗 [Source Code](https://github.com/kamleshpurohit14/CareerForge)
+
 </td>
 
 <td width="33%" valign="top">
@@ -72,6 +54,8 @@ Personal portfolio website showcasing my skills, projects, certifications and de
 **Tech:** HTML • CSS • JavaScript
 
 🔗 [Visit Portfolio](https://kamleshpurohit14.github.io/new-portfolio/)
+
+🔗 [Source Code](https://github.com/kamleshpurohit14/new-portfolio)
 
 </td>
 
@@ -124,20 +108,52 @@ Personal portfolio website showcasing my skills, projects, certifications and de
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=kamleshpurohit14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<table>
+<tr>
 
-![](https://streak-stats.demolab.com/?user=kamleshpurohit14&theme=dark&hide_border=false)
+<td width="50%" align="center">
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kamleshpurohit14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api?username=kamleshpurohit14&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%">
 
----
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://streak-stats.demolab.com/?user=kamleshpurohit14&theme=dark&hide_border=false" width="100%">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kamleshpurohit14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="50%">
+
+</td>
+
+</tr>
+</table>
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamlesh-purohit/)
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://kamleshpurohit14.github.io/new-portfolio/)
+<a href="https://www.linkedin.com/in/kamlesh-purohit/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kamleshpurohit14)
+<a href="https://kamleshpurohit14.github.io/new-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-📧 **Email:** kamleshpurohit034@gmail.com
+<a href="https://github.com/kamleshpurohit14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="mailto:kamleshpurohit034@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
