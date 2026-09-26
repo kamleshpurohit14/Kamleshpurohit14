@@ -32,13 +32,51 @@ A full-stack career-focused application built with **Spring Boot, React, MySQL a
 
 ---
 
-### 🔹 Personal Portfolio
-A personal portfolio website showcasing my skills, projects, certifications and development journey.
+## 🚀 Featured Projects
 
-**Tech:** HTML, CSS, JavaScript
+<table>
+<tr>
 
-🔗 [Portfolio](https://kamleshpurohit14.github.io/new-portfolio/)
+<td width="33%" valign="top">
 
+### 🧠 DSA Visualizer
+
+Interactive web application for visualizing sorting algorithms step-by-step with animations and complexity information.
+
+**Tech:** React • JavaScript • HTML • CSS
+
+🔗 [Live Demo](https://dsa-visualizer-weld.vercel.app/)
+
+🔗 [Source Code](https://github.com/kamleshpurohit14/DSA-Visualizer)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💼 CareerForge
+
+Full-stack career-focused application for managing student profiles, skills, projects and certifications.
+
+**Tech:** Java • Spring Boot • React • MySQL • JWT
+
+🔗 [GitHub Profile](https://github.com/kamleshpurohit14)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Personal Portfolio
+
+Personal portfolio website showcasing my skills, projects, certifications and development journey.
+
+**Tech:** HTML • CSS • JavaScript
+
+🔗 [Visit Portfolio](https://kamleshpurohit14.github.io/new-portfolio/)
+
+</td>
+
+</tr>
+</table>
 ---
 
 ## 🛠️ Tech Stack
